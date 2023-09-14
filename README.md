@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=ehsanjavadip&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 
-<img src="https://www.svgrepo.com/show/453059/nerd.svg" width="36" height="36" alt="programmer" /> Hey there, I'm  Ehsan. You can also Call me (ehsanjavadip) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<img src="https://www.svgrepo.com/show/453059/nerd.svg" width="36" height="36" alt="programmer" /> Hey there, I'm  Ehsan Javadi(ehsanjavadip) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ====================================================================================================================================
 
 Hi,<br>My name is Ehsan and I'm a Junior Flutter developer and Web Developer<br>
