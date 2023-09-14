@@ -1,22 +1,28 @@
+[![](https://visitcount.itsvg.in/api?id=ehsanjavadip&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
-<img src="https://www.svgrepo.com/show/453059/nerd.svg" width="36" height="36" alt="programmer" /> Hi My name is Ehsan Javadi
+
+<img src="https://www.svgrepo.com/show/453059/nerd.svg" width="36" height="36" alt="programmer" /> Hey there, I'm  Ehsan. You can also Call me (ehsanjavadip) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ====================================================================================================================================
 
-Web Developer and Designer
---------------------------
+Hi,<br>My name is Ehsan and I'm a Junior Flutter developer and Web Developer<br>
 
-I've been learning to code about 4 years in front-end dev and also back-end development . Irealy want to deep in Javascript and also Flutter .... Im learning to code and practicing everyday and pushes in GITHUB and Update everyday Let do ittttttt
+I've been learning to code about 5 years in front-end dev and also a little back-end development with PHP . Irealy want to deep in Flutter framework and Field.... Im learning to code and practicing everyday and pushes in GITHUB and Update everyday Let do ittttttt
 
 * 🌍  I'm based in Esfahan , Iran
-* 🖥️  See my portfolio at [My Website](http://ehsanjavadip.ir)
-* ✉️  You can contact me at [ehsanjavadip@gmail.com](mailto:ehsanjavadip@gmail.com)
-* 🚀  I'm currently working on [HotSnack Fast Food Website](http://hotsnack.ir)
-* 🧠  I'm learning a new front-end framework Tailwindcss
-* 🤝  I'm open to collaborating on Web Dev & UIUX Design and Managment Projects
-* ⚡  I'm a Happy Web Developer , don't tell anyone else....
+* 🖥️  I love Flutter and Dart (UI Design)
+* 💬 You can contact me at [ehsanjavadip@gmail.com](mailto:ehsanjavadip@gmail.com)
+* 🚀  I'm currently working at [CodeYad Academy](http://codeyad.com) & [NeginJavan Holding](https://neginjavan-holding.com)
+* 🧠  I'm learning a Dart & Flutter framework
+* 🤝  I'm open to collaborating on Web Dev & Flutter Apps and Managment Projects
+* ⚡  I'm a Happy Web / Mobile Developer , don't tell anyone else....
+* 🌱 Fun fact: I Love 🏀Basketball, Vollyball , Budybuilding
 
-### Skills
+### Skills : 
 
+<div>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
+</div>
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -39,14 +45,24 @@ I've been learning to code about 4 years in front-end dev and also back-end deve
 </p>
 
 
-### Socials
 
-<p align="left"> <a href="http://www.instagram.com/ehsanjavadip" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ehsanjavadip" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ehsanjavadip" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
 
-<b>My GitHub Stats</b>
+### GitHub Statistics :
+[![Ehsan Javadi GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehsanjavadip&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+![Ehsan Javadi Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ehsanjavadip&theme=nord&hide_border=false)
+<br/>
+![Ehsan Javadi Most Language Useed Github](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanjavadip&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-<a href="http://www.github.com/ehsanjavadip"><img src="https://github-readme-stats.vercel.app/api?username=ehsanjavadip&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="ehsanjavadip's GitHub stats" /></a>
 
-<a href="http://www.github.com/ehsanjavadip"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ehsanjavadip&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### My Social Networks :
+<div align="left">
+
+  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ehsanjavadip) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ehsanjavadip) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ehsanjavadip) 
+<a href="http://discord.link/ehsanjavadip#5157">
+<img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" />
+
+
+</div>
