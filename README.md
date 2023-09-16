@@ -51,8 +51,8 @@ I've been learning to code about 5 years in front-end dev and also a little back
 ### GitHub Statistics :
 [![Ehsan Javadi GitHub Stats](https://github-readme-stats.vercel.app/api?username=ehsanjavadip&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-![Ehsan Javadi Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ehsanjavadip&theme=nord&hide_border=false)
-<br/>
+<!--![Ehsan Javadi Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ehsanjavadip&theme=nord&hide_border=false)-->
+
 ![Ehsan Javadi Most Language Useed Github](https://github-readme-stats.vercel.app/api/top-langs/?username=ehsanjavadip&theme=nord&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
